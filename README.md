@@ -1,6 +1,6 @@
 # Content
 ## Syntax
-[Data Types](#data-types)
+[printing](#printing)
 
 * Comments
     * In-line Comment
