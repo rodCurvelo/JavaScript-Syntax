@@ -1,6 +1,8 @@
 # Content
 ## Syntax
-   [clique](#Subtracting Numbers)
+[Custom foo description](#foo)
+
+# Foo
 
 * Comments
     * In-line Comment
