@@ -1,6 +1,8 @@
 # Content
 ## Syntax
-   [Binary Search Tree]
+   [Subtracting Numbers](#Subtracting Numbers)
+
+# Foo
 
 * Comments
     * In-line Comment
