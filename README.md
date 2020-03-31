@@ -1,6 +1,5 @@
 # Content
 ## Syntax
-[Custom foo description](#foo)
 [Subtracting Numbers](#Subtracting Numbers)
 
 # Foo
