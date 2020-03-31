@@ -43,7 +43,7 @@
     * symbol
         * primitive data type that is unique
 
-* **Set Data to a Variable** 
+#### Set Data to a Variable 
     * Data is like a box
         ```JavaScript
             var myName = "Oswald";
