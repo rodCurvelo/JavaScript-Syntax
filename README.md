@@ -1,9 +1,6 @@
 # Content
 ## Syntax
-   [Subtracting Numbers](#Subtracting Numbers)
-   Subtracting Numbers
-
-# Foo
+   [clique](#Subtracting Numbers)
 
 * Comments
     * In-line Comment
