@@ -1,6 +1,6 @@
 # Content
 ## Syntax
-[Subtracting Numbers](#subtracting-numbers)
+[Subtracting Numbers](#comments)
 
 * Comments
     * In-line Comment
