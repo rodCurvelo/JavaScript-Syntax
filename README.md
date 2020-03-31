@@ -1,6 +1,7 @@
 # Content
 ## Syntax
    [Subtracting Numbers](#Subtracting Numbers)
+   Subtracting Numbers
 
 # Foo
 
