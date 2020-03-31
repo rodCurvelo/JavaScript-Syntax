@@ -1,5 +1,10 @@
 # Content
 ## Syntax
+   [Binary Search Tree] (# Binary Search Tree)
+
+### My Multi Word Header]
+
+### My Multi Word Header
 
 * Comments
     * In-line Comment
