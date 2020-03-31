@@ -1,6 +1,6 @@
 # Content
 ## Syntax
-[printing](printing)
+[Main JS Functions](#main-js-functions)
 
 * Comments
     * In-line Comment
