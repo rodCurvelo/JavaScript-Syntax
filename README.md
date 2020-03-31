@@ -1,6 +1,6 @@
 # Content
 ## Syntax
-[printing](#printing)
+[printing](printing)
 
 * Comments
     * In-line Comment
