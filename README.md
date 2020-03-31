@@ -1,6 +1,6 @@
 # Content
 ## Syntax
-
+[Case Sensitivity in Variables](#case-sensitivity-in-variables)
 
 #### In-line Comment
 ```JavaScript
