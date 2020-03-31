@@ -2,8 +2,6 @@
 ## Syntax
 [Subtracting Numbers](#subtracting-numbers)
 
-# Foo
-
 * Comments
     * In-line Comment
     ```JavaScript
