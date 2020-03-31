@@ -1,6 +1,6 @@
 # Content
 ## Syntax
-[Subtracting Numbers](#comments)
+[Data Types](#data-types)
 
 * Comments
     * In-line Comment
