@@ -1,6 +1,7 @@
 # Content
 ## Syntax
 [Main JS Functions](#main-js-functions)
+[Set Data to a Variable](#set-data-to-a-variable)
 
 * Comments
     * In-line Comment
