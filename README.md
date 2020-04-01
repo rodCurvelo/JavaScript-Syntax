@@ -1073,7 +1073,7 @@ console.log(sequentialSizes(1));
 ```
 
 #### Returning Boolean Values from Functions
-    ```JavaScript
+```JavaScript
     function isLess() {
         // Fix this code
         if (a < b) {
@@ -1093,7 +1093,7 @@ console.log(sequentialSizes(1));
     // change these values to test
     console.log(isLess(10, 15));
 
-    ```
+```
 
 #### Returning Early Pattern from Functions
 ```JavaScript
