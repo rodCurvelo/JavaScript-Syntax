@@ -1,5 +1,3 @@
-![What I Know](https://drive.google.com/file/d/1ZyLYicLIU34mI7w_P9IpHcqnKPvr4CXD/view?usp=sharing)
-
 # Content
 01. [In-line Comment](#in-line-comment)
 02. [Multiple lines](#multiple-lines)
