@@ -1,6 +1,47 @@
 # Content
 ## Syntax
-[Case Sensitivity in Variables](#case-sensitivity-in-variables)
+
+01. [In-line Comment](#in-line-comment)
+02. [Multiple lines](#multiple-lines)
+03. [Printing](#printing)
+04. [Data Types](#data-types)
+05. [undefined](#undefined)
+06. [null](#null)
+07. [boolean](#boolean)
+08. [string](#string)
+09. [number](#number)
+10. [object](#object)
+11. [symbol](#symbol)
+12. [Set Data to a Variable](#set-a-data-to-a-variable)
+13. [3 Ways to declare a variable in JavaScript](#3-ways-to-declare-a-variable-in-javascript)
+14. [var](#var)
+15. [let](#let)
+16. [const](#const)
+17. [Storing Values with Assignment Operator](#storing-values-with-assignment-operator)
+18. [Initializing a Variable with Assignment Operator](#initializing-a-variables-with-assignment-operator)
+19. [Unintialized Variables](#Unintialized-variables)
+20. [Case Sensitivity in Variables](#case-sensitivity-in-variables)
+21. [Adding Numbers](#adding-numbers)
+22. [Subtracting Numbers](#subtracting-numbers)
+23. [Multiplying Numbers](#multiplying-numbers)
+24. [Dividing Numbers](#dividing-numbers)
+25. [Incrementing Numbers](#incrementing-numbers)
+26. [Decrementing Numbers](#decrementing-numbers)
+27. [Decimal Numbers](#decimal-numbers)
+28. [Multiply Decimals](#multiply-decimals)
+29. [Divide Decimals](#divide-decimals)
+30. [Finding a Remainder](#finding-a-remainder)
+31. [Compound Assignment with Argument Addition](#compound-assignment-with-argument-addition)
+32. [Compound Assignment with Argument Subtraction](#compound-assignment-with-argument-subtraction)
+33. [Compound Assignment with Argument Multiplication](#compound-assignment-with-argument-multiplication)
+34. [Compound Assignment with Argument Division](#compound-assignment-with-argument-division)
+35. [Declare String Variables](#declare-string-variables)
+36. [Escaping Literal Quotes in Strings](#escaping-literal-quotes-in-strings)
+37. [Quoting Strings with Single Quotes](#quoting-strings-with-single-quotes)
+38. [Escape Sequences in Strings](#escape-sequences-in-strings)
+39. [Concatenating Strings with Plus Operator](#concatenating-strings-with-plus-operator)
+
+
 
 #### In-line Comment
 ```JavaScript
