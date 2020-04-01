@@ -53,7 +53,7 @@
 50. [Store Multiple Values with Arrays](#store-m-ultiple-values-with-arrays)
 51. [Nested Arrays](#nested-arrays)
 52. [Access Array Data with Indexes](#access-array-data-with-indexes)
-53. [Modify Array Data With Indexes](#modify-array data-with-indexes)
+53. [Modify Array Data With Indexes](#modify-array-data-with-indexes)
 54. [Access Multi-Dimensional Arrays With Indexes](#access-multi-dimensional-arrays-with-indexes)
 55. [Manipulate Arrays with push](#manipulate-arrays-with-push)
 56. [Manipulate Arrays with pop()](#manipulate-arrays-with-pop())
