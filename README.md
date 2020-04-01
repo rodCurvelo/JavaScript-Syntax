@@ -1,6 +1,4 @@
 # Content
-## Syntax
-
 01. [In-line Comment](#in-line-comment)
 02. [Multiple lines](#multiple-lines)
 03. [Printing](#printing)
@@ -144,7 +142,7 @@
 142. [Create an Export Fallback with export default](#create-an-export-fallback-with-export-default)
 143. [Import Default Export](#import-default-export)
 
-
+----
 
 #### In-line Comment
 ```JavaScript
