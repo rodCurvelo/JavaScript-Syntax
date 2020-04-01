@@ -12,7 +12,7 @@
 09. [number](#number)
 10. [object](#object)
 11. [symbol](#symbol)
-12. [Set Data to a Variable](#set-a-data-to-a-variable)
+12. [Set Data to a Variable](#set-data-to-a-variable)
 13. [3 Ways to declare a variable in JavaScript](#3-ways-to-declare-a-variable-in-javascript)
 14. [var](#var)
 15. [let](#let)
